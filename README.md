@@ -16,11 +16,11 @@ Although C++ already provides the STL (Standard Template Library), Templarium ai
 
 ## 📚 Goals
 
-    Practice implementing algorithms and data structures from scratch.
+- Practice implementing algorithms and data structures from scratch.
 
-    Learn and apply templates, concepts, and operator overloading.
+- Learn and apply templates, concepts, and operator overloading.
 
-    Improve code organization and documentation.
+- Improve code organization and documentation.
 
 ---
 
